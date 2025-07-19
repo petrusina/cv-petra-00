@@ -1,5 +1,5 @@
 title: Petra Stojičić
-description: Software Developer & Designer
+description: description
 baseurl: "/cv-petra-00"
 url: "https://petrusina.github.io"
 
@@ -10,13 +10,11 @@ permalink: pretty
 
 # Personal info
 author:
-  name: Your Full Name
+  name: Petra Stojičić
   title: Your Professional Title
-  email: your.email@example.com
-  phone: +1-234-567-8900
-  linkedin: your-linkedin-username
-  github: your-github-username
-  location: Your City, Country
+  email: pet.stojicic@gmail.com
+  phone: +385 99 2502 411
+  location: Aarhus, Denmark
   website: https://petrusina.github.io/cv-petra-00
 
 # Navigation
