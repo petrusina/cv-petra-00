@@ -1,0 +1,52 @@
+title: Petra Stojičić
+description: Software Developer & Designer
+baseurl: "/cv-petra-00"
+url: "https://petrusina.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Personal info
+author:
+  name: Your Full Name
+  title: Your Professional Title
+  email: your.email@example.com
+  phone: +1-234-567-8900
+  linkedin: your-linkedin-username
+  github: your-github-username
+  location: Your City, Country
+  website: https://petrusina.github.io/cv-petra-00
+
+# Navigation
+navigation:
+  - title: About
+    url: /about
+  - title: Experience
+    url: /experience
+  - title: Projects
+    url: /projects
+  - title: Skills
+    url: /skills
+  - title: Contact
+    url: /contact
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
