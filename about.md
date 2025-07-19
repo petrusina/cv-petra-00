@@ -1,0 +1,1 @@
+Second  year student at Aarhus University enrolled in the Cognitive Science Bachelor's program. Organizational psychology enthusiast with experience in administrative roles. Strong track record of technical proficiency, attention to detail and effective communication. Eager to gain more hands-on experience while supporting the operations of a successful organization.
